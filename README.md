@@ -2,7 +2,7 @@
 
 [![MIT License](https://img.shields.io/github/license/garrysmodlua/GMod-Expression2-midi-parser.svg?style=flat-square&maxAge=30)](https://github.com/garrysmodlua/GMod-Expression2-midi-parser/blob/master/LICENSE) [![Travis Build Status](https://img.shields.io/travis/garrysmodlua/GMod-Expression2-midi-parser/master.svg?style=flat-square&maxAge=30)](https://travis-ci.org/garrysmodlua/GMod-Expression2-midi-parser)
 
-**It is not perfect**! Use it for experimental purposes.
+**It is not perfect**! Use it for experimental purposes. It is Work-In-Progress (**WIP**)!
 
 ## Installation
 
