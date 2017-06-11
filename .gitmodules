@@ -1,0 +1,3 @@
+[submodule "midi-parser"]
+	path = midi-parser
+	url = git://github.com/garrysmodlua/GLua-midi-parser.git

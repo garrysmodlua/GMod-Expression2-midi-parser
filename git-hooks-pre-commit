@@ -1,0 +1,3 @@
+#!/bin/sh
+echo `git rev-parse HEAD` > lua/wire_expression2_midiparser.version
+git add lua/wire_expression2_midiparser.version
