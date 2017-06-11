@@ -44,7 +44,7 @@
 	}
 	```
 
-		- **Challenge for you**: Make use of [E2 file extension](https://github.com/wiremod/wire/wiki/Expression-2#File_Functions) (use file* E2 functions), and then [implement a chat-command](https://github.com/wiremod/wire/wiki/Expression-2#Chat) to hook it up with `midiParse`, so you can parse `.mid` files from your computer via chat-command. Also, due security reasons, there is no `midiParseFile` E2 function.
+	Challenge for you: Make use of [E2 file extension](https://github.com/wiremod/wire/wiki/Expression-2#File_Functions) (use file* E2 functions), and then [implement a chat-command](https://github.com/wiremod/wire/wiki/Expression-2#Chat) to hook it up with `midiParse`, so you can parse `.mid` files from your computer via chat-command. Also, due security reasons, there is no `midiParseFile` E2 function.
 
 ### Return Sample
 
