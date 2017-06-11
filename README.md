@@ -8,8 +8,8 @@
 
 ### Download
 
-1. You must download and install [Wire](https://github.com/garrysmodlua/wire) addon.
-2. You must download the source code, there are 3 ways to do it, use any way you like:  
+1. Download and install [Wire](https://github.com/garrysmodlua/wire) addon.
+2. Download the source code, there are 2 ways to do it, use any way you like:  
 	* Clone this repository using [git](https://git-scm.com/downloads): `git clone --recursive https://github.com/garrysmodlua/GMod-Expression2-midi-parser.git e2-midi-parser`. Recommended way.
 	* Download the latest release from [here](https://github.com/garrysmodlua/GMod-Expression2-midi-parser/releases/latest). Alternative way.
 	* ~~Download ZIP of this repository [here](https://github.com/garrysmodlua/GMod-Expression2-midi-parser/archive/master.zip).~~ UNSUPPORTED. Do NOT use this way, it will not work (midiparser module is missing)!
